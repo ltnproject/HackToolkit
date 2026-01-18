@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ltnproject.github.io/HackToolkit/sitemap.xml
